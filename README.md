@@ -25,9 +25,6 @@ This project demonstrates the fundamentals of supervised machine learning by tra
 ```text
 student-performance-predictor/
 │
-├── data/
-├── src/
-├── images/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
